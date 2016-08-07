@@ -1,0 +1,12 @@
+{
+  "Web": {
+    "Forums": {
+      "Address": "frosty.pw",
+      "Port": 80
+    },
+    "HarbourRP#1": {
+      "Address": "frosty.pw",
+      "Port": 27016
+    }
+  }
+}
